@@ -30,11 +30,12 @@ const IndexPage = () => (
     </div> */}
 
     
+    {/* TODO: add this back once, HTTPS is up and all good */}
     {/* LEAVE US YOUR INFO */}
-    <div style={{textAlign: `center`, marginBottom: `0.5rem`}}>
+    {/* <div style={{textAlign: `center`, marginBottom: `0.5rem`}}>
       <h2>Stay in The Loop</h2>
     </div>
-    <EmailForm style={{alignSelf: 'center'}}/>
+    <EmailForm style={{alignSelf: 'center'}}/> */}
     
     {/* CHECK THE PROGRESS - PHOTOS */}
     
