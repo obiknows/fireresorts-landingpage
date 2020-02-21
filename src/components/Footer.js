@@ -3,7 +3,7 @@ import config from '../../config';
 
 export default function Footer() {
   return (
-    <footer id="footer">
+    <footer id="footer" style={{textAlign: 'center'}}>
       <ul className="icons">
         {config.socialLinks.map(social => {
           const { icon, name, url } = social;
@@ -17,10 +17,9 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; Eventually.</li>
+        <li>&copy; FIRE Resorts</li>
         <li>
-          Credits: <a href="http://unsplash.com/">Unsplash</a> +
-          <a href="http://html5up.net">HTML5 UP</a>
+          Built by <a href="http://instagram.com/itsobinna">Obinna</a>
         </li>
       </ul>
     </footer>
