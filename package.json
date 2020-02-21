@@ -1,14 +1,10 @@
 {
-  "name": "gatsby-starter-eventually",
+  "name": "fire-resorts-landingpage",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Eventually by HTML5 UP",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-eventually.git"
-  },
+  "description": "based off a Gatsby.js V2 starter template based on Eventually by HTML5 UP",
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Obinna Nnodim",
+    "email": "obiknows88@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.4.3",
@@ -38,11 +34,9 @@
   "keywords": [
     "gatsby",
     "gatsby-starter",
-    "gatsby-starter-eventually"
+    "fire-resorts",
+    "fire-resorts-websites"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-eventually/issues"
-  },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-eventually#readme"
+  "homepage": "https://github.com/obiknows/fire-resorts-landingpage#readme"
 }
