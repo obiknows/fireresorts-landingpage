@@ -9,6 +9,7 @@
 	#signup-form {
 		@include vendor('display', 'flex');
 		position: relative;
+		align-self: center;
 
 		input[type="text"],
 		input[type="password"],
