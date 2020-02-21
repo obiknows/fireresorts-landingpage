@@ -14,8 +14,8 @@ export default function Footer() {
         <h5 style={{ color: 'white', backgroundColor: `rgba(0,0,0,0.25)`, letterSpacing:`0.25rem`, width: `fit-content`, padding: `1rem`, marginLeft: `auto`, marginRight: `auto`}}>COMING SOON</h5>
       </div>
 
-      <h2>FIRE Resorts is finally here.</h2>
-      <h3>The space for Like Minded Nomads of Color to Meet, Host, Rest & VIBE.</h3>
+      <h2>FIRE Resorts is finally here</h2>
+      <h3>The space for Like Minded Nomads Who Love Black People to Meet, Host, Rest & VIBE.</h3>
       
       {/* TODO: take this off when the form and buttons are right */}
       <div style={{display: `none`}}>
